@@ -25,6 +25,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="overons">Contact</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="bestellen">Bestellen</a>
+                    </li>
                 </ul>
                 </ul>
             </div>
